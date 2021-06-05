@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CloudsHDR
+  m_Shader: {fileID: -6465566751694194690, guid: e47aef8a4cf80b24aa97acd266bb3206,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Base_Noise_Scale: 0.0075
+    - Base_Speed: 6.75
+    - Base_Strength: -0.18
+    - Color1: 0
+    - Curvature_Radius: 149.6
+    - Displacement: 40.59
+    - Emission_Strength: 0.45
+    - Fresnel_Opacity: 0.28
+    - Noise_Scale: 0.013
+    - Smoothing_Max: 1
+    - Smoothing_Min: 0
+    - Speed: 11
+    - Vector1_30FA278A: 22.7
+    - Vector1_590B358F: 0.85
+    - Voronoi_Angle_Speed: -0.25
+    - Voronoi_Cell_Density: 0.00675
+    - Voronoi_Strength: 2.23
+    m_Colors:
+    - Cloud_Shape: {r: 0, g: 1, b: -1, a: 1}
+    - Color1: {r: 0.5176471, g: 0.7490196, b: 0.79215693, a: 0}
+    - Color2: {r: 0.7803922, g: 0.8705883, b: 0.8862746, a: 0}
+    - Rotation_Projection: {r: 1, g: 0, b: 0, a: 90}

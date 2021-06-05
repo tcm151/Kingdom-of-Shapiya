@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6cb80877dced6d469812d961eddedc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - factory: {fileID: 11400000, guid: 8a699280dc0d23640a2a54a0e00d92d5, type: 2}
+  - hexGrid: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - selectedTower: {instanceID: 0}
+  - allowGhostMaterial: {instanceID: 0}
+  - denyGhostMaterial: {instanceID: 0}
+  - buildTowerGUIcanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

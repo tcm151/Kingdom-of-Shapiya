@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: de0ffa44ff2dd9042a3648ecdc9b538d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectileFactory: {fileID: 11400000, guid: 4aa94eaddd14a92409dbb1949fcbdbd5,
+      type: 2}
+  - particleFactory: {fileID: 11400000, guid: 63b173cec8d3f76479fb2a6ffc422c96, type: 2}
+  - stats: {fileID: 11400000, guid: 02ae424fb8d1ea4469ca28710f1d648a, type: 2}
+  - projectileOrigin: {instanceID: 0}
+  - aimPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

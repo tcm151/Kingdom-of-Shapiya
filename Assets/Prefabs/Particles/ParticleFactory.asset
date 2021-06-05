@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a287243ef009824b99d02063b6dc148, type: 3}
+  m_Name: ParticleFactory
+  m_EditorClassIdentifier: 
+  particlesPrefabs:
+  - {fileID: 7095537310715848093, guid: 4c2bdb5d301d9ea48a9e403e7fbadf5f, type: 3}
+  - {fileID: 4547212508653968907, guid: 6424ced84cff56145b3fc0c5efc3bc8e, type: 3}
+  - {fileID: 4547212508653968907, guid: 05391742cefb38d47a032faa927faede, type: 3}
+  - {fileID: 4547212508653968907, guid: 5bd0ecaf5b625f344b6265dd353f949e, type: 3}
+  - {fileID: 4547212508653968907, guid: 4f76a48e35e146147ab384b682dc5a8e, type: 3}
+  - {fileID: 4547212508653968907, guid: 49d6616277d05e1459490e7196585d3e, type: 3}
+  - {fileID: 4547212508653968907, guid: 7685d5abdd8efed4d9cf80f7f6160bd6, type: 3}
+  - {fileID: 7095537310715848093, guid: 2fae37155be3c5546b3ca74a241a384b, type: 3}

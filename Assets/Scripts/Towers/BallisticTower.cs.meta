@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 92a0442bd1191274f80ddd51eecbb8cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectileFactory: {fileID: 11400000, guid: 4aa94eaddd14a92409dbb1949fcbdbd5,
+      type: 2}
+  - stats: {fileID: 11400000, guid: 6d5ac4c671742b440aab0854df92642a, type: 2}
+  - targetEnemy: {instanceID: 0}
+  - projectileOrigin: {instanceID: 0}
+  - tower: {instanceID: 0}
+  - towerHead: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
