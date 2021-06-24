@@ -9,8 +9,7 @@ namespace KOS.Player
     public class FirstPerson : MonoBehaviour
     {
         [Header("Settings")]
-        [Range(0.1f, 5)]
-        public float mouseSensitivity;
+        [Range(0.1f, 5)] public float mouseSensitivity;
         public bool invert = false;
         private float mouseX, mouseY;
 
